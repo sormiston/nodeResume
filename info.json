@@ -1,0 +1,24 @@
+{
+  "name": "Sean Ormiston",
+  "website": "https://github.com/sormiston",
+  "linkedin": "https://www.linkedin.com/in/sean-ormiston-545177142/",
+  "github": "sormiston",
+  "email": "sean.david.ormiston@gmail.com",
+  "resume": "",
+  "proficientTechnologies": [
+      "Javascript",
+      "Node",
+      "Express",
+      "Mongodb",
+      "Python"
+  ],
+  "otherSkills": [
+      "contract management",
+      "music production",
+      "Orchestral Double Bass",
+      "Portuguese",
+      "drone piloting",
+      "running",
+      "shadow-boxing"
+  ]
+}
